@@ -1,3 +1,3 @@
 # Orleans
 framework for building distributed systems, high scale, low latency, high availability.
-![](orleans-basic-architecture.png)
+![](https://github.com/khdevnet/orleans/blob/master/docs/orleans-basic-architecture.png)
